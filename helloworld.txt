@@ -5,6 +5,7 @@ I am beginner to github
 I want to do some operations
 
 want to create new version
+git is easy::
 
 final copy
 
